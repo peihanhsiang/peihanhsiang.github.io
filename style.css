@@ -1,0 +1,22 @@
+body
+{
+  background-color:#00DDDD;
+}
+img
+{
+  height:200px;
+  width:200px;
+  border-width:4px 2px 4px 2px;
+  border-color:white;
+
+}
+h1
+{
+   font-family:Georgia,"Times New Romen";
+}
+h2
+{	
+  font-family:Georgia,"Times New Romen";
+  text-align:center;
+
+}
